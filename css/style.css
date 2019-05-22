@@ -46,6 +46,12 @@ a.navbar-brand img{
 	background-size: cover;
 	background-attachment: fixed;
 }
+.rec{
+
+    background-image: url(../img/kidss.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
 .main-content{
   padding: 10%;
   display: flex;
@@ -55,8 +61,14 @@ a.navbar-brand img{
 	align-items: center;
 	align-content: stretch;
 }
-
-
+.btext{
+  text-align: center;
+  padding-bottom: 1em;
+  font-size: 2em;
+}
+.mheight{
+  height: 100vh;
+}
 .aboutUs {
   width: 300px;
   height: 400px;
@@ -74,6 +86,14 @@ a.navbar-brand img{
   .center {
     font-size: xx-large;
   }
+}
+.img-center{
+  width: 100%;
+  max-width: 398px;
+  padding: 1.6em;
+  display: block;
+  margin: 0 auto;
+  max-height: 500px;
 }
 .img-aboutUs {
   height: 100%;
@@ -128,4 +148,10 @@ a.navbar-brand img{
 	justify-content: center;
 	align-items: center;
 	align-content: stretch;
+}
+.bar{
+  margin: 25px 0 75px 0;
+  width: 70%;
+  height: 4px;
+  background: #9d9fa2;
 }
