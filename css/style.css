@@ -182,7 +182,7 @@ a.navbar-brand img{
 }
 .gallery-on{
   height: 600px;
-  background-image: url(../img/gallery.jpg);
+  background-image: url(../img/gallery.svg);
   background-size: cover;
   transition: background-color 2s;
 }
