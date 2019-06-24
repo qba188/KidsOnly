@@ -199,6 +199,19 @@ a.navbar-brand img{
 .gallery-on a:hover {
   background-color: rgba(165, 171, 171, 0.41)
 }
+.parallaxContainer{
+  position: relative;
+  background-image: url(../img/pen.svg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+.parallaxContainer2{
+    background-image: url(../img/kidss.png);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
 
 /*FORM*/
 * {
