@@ -163,7 +163,7 @@ a.navbar-brand img{
   background: #9d9fa2;
 }
 .row.main-content i{
-  background-color: aqua;
+  background-color: rgb(255, 255, 255);
   width: 38px;
   height: 38px;
   border-radius: 50%;
